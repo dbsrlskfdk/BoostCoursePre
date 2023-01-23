@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 2,
    "metadata": {
     "collapsed": true,
     "pycharm": {
@@ -10,7 +10,22 @@
     }
    },
    "outputs": [],
-   "source": []
+   "source": [
+    "k = 80\n",
+    "dungeons = [[80,20],[50,40],[30,10]]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "outputs": [],
+   "source": [],
+   "metadata": {
+    "collapsed": false,
+    "pycharm": {
+     "name": "#%%\n"
+    }
+   }
   }
  ],
  "metadata": {

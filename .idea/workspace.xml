@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1416296-22d8-4926-9b60-2e51c93f92b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temporary.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingtest_42583.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/codingtest_87946.ipynb~Stashed changes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingtest_42839.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/codingtest_42839.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingtest_42840.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/codingtest_42840.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingtest_86491.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/codingtest_86491.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingtest_87946.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/codingtest_87946.ipynb~Updated upstream" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IwBxHMlhz2x6Wz50l3oKk0wA2Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/BoostCoursePre&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1416296-22d8-4926-9b60-2e51c93f92b8" name="Changes" comment="" />
+      <created>1671083009386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671083009386</updated>
+      <workItem from="1671083010853" duration="1166000" />
+      <workItem from="1671262323035" duration="9469000" />
+      <workItem from="1671350211576" duration="6337000" />
+      <workItem from="1671372572338" duration="1845000" />
+      <workItem from="1671436043489" duration="1401000" />
+      <workItem from="1671453746765" duration="3516000" />
+      <workItem from="1671548006917" duration="2357000" />
+      <workItem from="1671552391007" duration="1270000" />
+      <workItem from="1671594801908" duration="659000" />
+      <workItem from="1671598623684" duration="8193000" />
+      <workItem from="1671622328179" duration="7424000" />
+      <workItem from="1671776740446" duration="14477000" />
+      <workItem from="1671863784262" duration="13151000" />
+      <workItem from="1671948318668" duration="8828000" />
+      <workItem from="1672050936062" duration="35000" />
+      <workItem from="1672051024567" duration="1829000" />
+      <workItem from="1672054772720" duration="118000" />
+      <workItem from="1673156417046" duration="5779000" />
+      <workItem from="1674286515042" duration="3800000" />
+      <workItem from="1674360814617" duration="3972000" />
+      <workItem from="1674454976336" duration="4485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
